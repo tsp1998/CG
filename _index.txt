@@ -1,0 +1,143 @@
+Programs by TSP
+1.Cartoon
+2.Triangle Translation
+3.Smiling Cartoon
+4.Indian Flag
+5.~TSP Animation
+6.Indian Flag with a Student
+7.~COLORS
+8.~FUNCTIONS OF GRAPHICS
+9.~FONTS
+10.~Fill Styles
+11.Draw Colorful Continuous Circular Loading Bar
+12.~text styles
+13.~Transformation class
+14.Transformation
+15.~Cartoon Animation
+16.~Smiling Cartoon animation
+17.~clock
+18.Running Man
+19.~colorfull Indian Flag with a Student
+20.~Rotation Transformation
+21.Rectangle Translation
+22.~Triangle Reflection
+23.~Cartoon animation
+24.Outext Fns
+25.Moving Car
+26.~Aeroplane
+27.man walking in Rain
+28.~Colorful Moving Car
+29.~Moving Car Traffic
+30.Moving Car traffic with signal
+31.~Triangle Shearing
+32.~Flying Aeroplane
+33.~Triangle Transformations
+34.~ATM Machine
+35.Moving Colorful Car
+36.Indian Flag Animation (Project)
+37.Square animation in clock style
+38.Square animation in clock style colorful
+39.Star Animation
+40.Star Animation in Circle
+41.Graphics Information
+42.Rainbow Animation
+43.Rainbow Animation 2
+44.ASHOK CHAKRA
+45.ASHOK CHAKRA
+46.ASHOK CHAKRA
+47.DDA Line Drawing Algorithm
+48.
+49.
+50.electronics(project)
+51.railway
+52.Bresenham's line Drawing Alogorithm
+53.Bresenham's Circle  Drawing
+54.colorful ellipse
+55.
+56.colorful ellipse(TSP)
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+
+note**:
+1. Switch  statement program also called menu driven program
+2. call by value means parameters should passed (declared) in function bracket
+3.call by address/reference means pointers(parameters with star symbol prefix i.e. void ts(int *s)) should passed (declared) in function bracket
+4.ASCII-american standard code information interchange
+
+
+Graphics index
+Ortho 82
+Plane 163
+Class Ortho 243
