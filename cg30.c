@@ -5,28 +5,29 @@ Programmer
 SKNSCOE,Korti.
 Email-tsp@outlook.in
 */
-#include<stdio.h>
-#include<graphics.h>
-#include<conio.h>
-#include<dos.h>
+#include <stdio.h>
+#include <graphics.h>
+#include <conio.h>
+#include <dos.h>
 void main()
 {
-	int i,j;
- int gdriver=DETECT,gmode,error;
-  initgraph(&gdriver,&gmode,"C:\\TC\\BGI");
- error=graphresult();
- if (error!=grOk)
- {
-	outtext("error");
-	getch();
-}
-else{
-	
-	outtextxy(250,250,"Enter Any Key To Start");
-	getch();
-	for(i=0;i<=630;i+=10)
+	int i, j;
+	int gdriver = DETECT, gmode, error;
+	initgraph(&gdriver, &gmode, "C:\\TC\\BGI");
+	error = graphresult();
+	if (error != grOk)
 	{
-/*	line(0,471,650,471);//Road
+		outtext("error");
+		getch();
+	}
+	else
+	{
+
+		outtextxy(250, 250, "Enter Any Key To Start");
+		getch();
+		for (i = 0; i <= 630; i += 10)
+		{
+			/*	line(0,471,650,471);//Road
 //	rectangle(1,1,630,475);// boundary
 		line(30+i,420,70+i,420);//upper
 		line(30+i,420,10+i,440);//back
@@ -50,12 +51,12 @@ else{
 		circle(35+i,460,2);//tyre1
 			arc(75+i,460,0,180,10);//Tyre2arc
 				circle(75+i,460,8);//tyre2*/
-					circle(75+i,460,2);//tyre2
-						delay(100);
-	cleardevice();
+			circle(75 + i, 460, 2); //tyre2
+			delay(100);
+			cleardevice();
+		}
+
+		getch();
 	}
-	
- getch();
-}
- closegraph();
+	closegraph();
 }

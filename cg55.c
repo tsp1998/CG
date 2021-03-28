@@ -1,15 +1,15 @@
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 void main()
 {
 	clrscr();
-printf("This line will be deleted when you press a key.");
+	printf("This line will be deleted when you press a key.");
 
-getch();
-delline();
-gotoxy(0,0);
-printf("Line deleted successfully.");
+	getch();
+	delline();
+	gotoxy(0, 0);
+	printf("Line deleted successfully.");
 
-getch();
-return 0;
+	getch();
+	return 0;
 }
